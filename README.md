@@ -1,35 +1,35 @@
-# vue-project
+# Search Meal App
 
-This template should help get you started developing with Vue 3 in Vite.
+The Search Meal App is a user-friendly platform designed to simplify the process of finding and preparing delicious meals. With a convenient and intuitive interface, users can easily discover recipes, gather ingredients, and even watch instructional cooking videos for their desired meals. Whether you're an experienced chef or a culinary novice, the Search Meal App has something to offer for everyone.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **Recipe Discovery**: Quickly search and find a wide variety of meals by their name. No more struggling to remember the perfect dish – simply type in the name, and the app will provide you with a list of matching recipes.
 
-## Customize configuration
+- **Ingredient Sorting**: Looking to cook something specific with the ingredients you have on hand? The app allows you to sort meals by typing in an ingredient. Say goodbye to wasting food – make the most of what's in your kitchen.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Alphabetical Sorting**: Want to explore meals that start with a certain letter? Easily sort and navigate through the available recipes by typing in a letter.
 
-## Project Setup
+- **Detailed Information**: Each meal comes with a comprehensive list of ingredients and step-by-step cooking instructions. Never feel lost in the kitchen again – our detailed guides will walk you through the process from start to finish.
 
-```sh
-npm install
-```
+- **Cooking Videos**: For those who prefer visual learning, the app provides YouTube links to cooking videos related to each meal. Watch professional chefs and home cooks demonstrate the preparation process in action.
 
-### Compile and Hot-Reload for Development
+## How to Use
 
-```sh
-npm run dev
-```
+1. **Search by Name**: Enter the name of the meal you're looking for in the search bar. The app will display a list of matching recipes.
 
-### Compile and Minify for Production
+2. **Sort by Ingredient**: Type in an ingredient you have, and the app will show you meals that can be made using that ingredient.
 
-```sh
-npm run build
-```
+3. **Sort by Letter**: To explore meals that start with a specific letter, type in the letter, and the app will present you with relevant options.
 
-### Lint with [ESLint](https://eslint.org/)
+4. **Recipe Details**: Click on a meal to view its detailed recipe, including ingredients and step-by-step instructions.
 
-```sh
-npm run lint
-```
+5. **Cooking Videos**: If you prefer visual guides, click on the YouTube link provided for each meal to watch a cooking video.
+
+## Get Started
+
+Ready to embark on a culinary adventure? Explore the Search Meal App today and make meal planning and cooking an enjoyable experience. Whether you're seeking new ideas or looking to make the most of your pantry, the app has you covered.
+
+---
+
+Feel free to customize this description to match your app's branding and tone. Make sure to include any additional information, instructions, or contact details that you think would be helpful for users.
