@@ -30,6 +30,5 @@ The Search Meal App is a user-friendly platform designed to simplify the process
 
 Ready to embark on a culinary adventure? Explore the Search Meal App today and make meal planning and cooking an enjoyable experience. Whether you're seeking new ideas or looking to make the most of your pantry, the app has you covered.
 
----
 
-Feel free to customize this description to match your app's branding and tone. Make sure to include any additional information, instructions, or contact details that you think would be helpful for users.
+
