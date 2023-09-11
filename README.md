@@ -30,7 +30,9 @@ The Search Meal App is a user-friendly platform designed to simplify the process
 
 Ready to embark on a culinary adventure? Explore the Search Meal App today and make meal planning and cooking an enjoyable experience. Whether you're seeking new ideas or looking to make the most of your pantry, the app has you covered.
 
-TRY THE APP NOW,click the link below to go to the app
+TRY THE APP NOW,  
+click the link below to go to the app  
 [Search Meal App](https://roaring-cupcake-0dfa39.netlify.app/)
+
 
 
